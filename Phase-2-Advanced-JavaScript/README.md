@@ -1,8 +1,8 @@
-\# JavaScript Phase 2 – Modern JavaScript (ES6+)
+# JavaScript Phase 2 – Modern JavaScript (ES6+)
 
 
 
-\## Overview
+ ## Overview
 
 
 
@@ -14,45 +14,45 @@ Each lesson includes theory, hands-on exercises, a mini project, and a README do
 
 
 
-\---
+ ---
 
 
 
-\## Topics Covered
+ ## Topics Covered
 
 
 
-\* Let \& Const
+ * Let  & Const
 
-\* Arrow Functions
+ * Arrow Functions
 
-\* Template Literals
+ * Template Literals
 
-\* Destructuring
+ * Destructuring
 
-\* Spread Operator
+ * Spread Operator
 
-\* Rest Parameters
+ * Rest Parameters
 
-\* Default Parameters
+ * Default Parameters
 
-\* ES Modules
+ * ES Modules
 
-\* Promises
+ * Promises
 
-\* Async / Await
+ * Async / Await
 
-\* Fetch API
+ * Fetch API
 
-\* Local Storage
-
-
-
-\---
+ * Local Storage
 
 
 
-\## Mini Projects
+ ---
+
+
+
+ ## Mini Projects
 
 
 
@@ -64,11 +64,11 @@ Projects will gradually increase in difficulty and use only the concepts covered
 
 
 
-\---
+ ---
 
 
 
-\## Folder Structure
+ ## Folder Structure
 
 
 
@@ -108,31 +108,31 @@ Phase-2/
 
 
 
-\---
+ ---
 
 
 
-\## Technologies Used
+ ## Technologies Used
 
 
 
-\* HTML5
+ * HTML5
 
-\* JavaScript (ES6+)
+ * JavaScript (ES6+)
 
-\* Visual Studio Code
+ * Visual Studio Code
 
-\* Git
+ * Git
 
-\* GitHub
-
-
-
-\---
+ * GitHub
 
 
 
-\## Learning Goals
+ ---
+
+
+
+ ## Learning Goals
 
 
 
@@ -140,29 +140,29 @@ By completing this phase, I aim to:
 
 
 
-\* Write clean and modern JavaScript code
+ * Write clean and modern JavaScript code
 
-\* Understand ES6+ syntax and features
+ * Understand ES6+ syntax and features
 
-\* Improve code readability and maintainability
+ * Improve code readability and maintainability
 
-\* Work with objects and arrays efficiently
+ * Work with objects and arrays efficiently
 
-\* Understand asynchronous programming
+ * Understand asynchronous programming
 
-\* Consume REST APIs using Fetch API
+ * Consume REST APIs using Fetch API
 
-\* Store data in the browser using Local Storage
+ * Store data in the browser using Local Storage
 
-\* Build interactive web applications using modern JavaScript
-
-
-
-\---
+ * Build interactive web applications using modern JavaScript
 
 
 
-\## Learning Outcome
+ ---
+
+
+
+ ## Learning Outcome
 
 
 
